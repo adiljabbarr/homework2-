@@ -1,0 +1,30 @@
+using System;
+
+class HelloWorld
+{
+    //1ci sual: Parametr kimi iki tam ədəd götürən və onların cəmini qaytaran metod
+    //yaradın.
+
+    //static void Main(string[] args)
+    //{
+    //    Console.WriteLine("please write first number:");
+    //    int num1 = int.Parse(Console.ReadLine());
+    //    Console.WriteLine("please write second number:");
+    //    int num2 = int.Parse(Console.ReadLine());
+    //    Console.WriteLine("lets add numbers");
+    //    int sum = num1 + num2;
+    //    myMethod(sum);
+
+    //}
+    //static void myMethod(int sum)
+    //{
+    //    Console.WriteLine(sum);
+    //}
+
+    //___________________________________________________________________________________________
+
+
+    
+
+
+}
